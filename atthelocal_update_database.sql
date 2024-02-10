@@ -1,3 +1,7 @@
+-- Select the database
+use atthelocal;
+
+-- Create table for users
 CREATE TABLE Users (
     id VARCHAR(255) PRIMARY KEY,
     username VARCHAR(255) UNIQUE NOT NULL,
@@ -8,4 +12,4 @@ CREATE TABLE Users (
     modifiedDate TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP NOT NULL,
     primaryLocation VARCHAR(255) DEFAULT NULL,
     profileSettings JSON DEFAULT NULL
-)
+);
