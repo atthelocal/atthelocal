@@ -3,17 +3,16 @@ The ***at the local*** project aim to build website for local community mainly f
 
 
 ## Technologies:
-  - Java J2EE
-  - JavaScript
+  - Angular [frontend]
+  - Node.js (Express) [backend]
+  - JavaScript [TypeScript]
   - HTML
   - CSS
-  - JSP
   - Maria DB
   - GIT
   - Visual Code IDE
   - IntelliJ IDE
   - Eclipse IDE
-  - Tomcat Web Server
 
 ## Project and Releases:
 The projects for year 2024  are named as below. The names are based on the phases of moon in Tamil language. We aim to do atleast five major releases in a year.
@@ -30,7 +29,7 @@ The projects for year 2024  are named as below. The names are based on the phase
 | Branch  |                                                  Description                                                  |
 |---------|---------------------------------------------------------------------------------------------------------------|
 | master  | The main branch                                                                                               |
-| feature | Used for developing\modifying code - branch names should contain story number `feature/<Proejct>_<IssueId>_description` |
+| feature | Used for developing\modifying code - branch names should contain story number `feature/<Project>_<IssueId>_description` |
 
 Code will progress through the following branches in this order:
 
@@ -50,12 +49,15 @@ feature &rarr; master
  
 
 ## Contribution:
+
 ### Development
 - Ramesh Belli
 - Karthick Chandran
+- Anbuselvam S [https://github.com/Anbu1432]
+- Santhosh S [https://github.com/SANTHOSH092005]
+- Saran M [https://github.com/saran-mani]
+- Shabbir Khan I [https://github.com/shabbirkhann]
 
 ### Project Management:
 - Kamal Chandran
 
-### Testing
-- Kavitha Sarawanan
