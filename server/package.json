@@ -1,5 +1,5 @@
 {
-  "name": "server",
+  "name": "atlbackend",
   "version": "1.0.0",
   "description": "This is the backend project of atthelocal product",
   "main": "index.js",

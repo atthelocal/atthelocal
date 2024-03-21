@@ -1,4 +1,4 @@
-# Frontend
+# atlclient
 This project is frontend for the atthelocal product
 
 ## Softwares and Packages:
